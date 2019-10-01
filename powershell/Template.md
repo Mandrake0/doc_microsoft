@@ -161,7 +161,7 @@ Function hworld
     [CmdletBinding()] 
     Param 
       ( 
-          [Parameter(Mandatory = $true)] 
+          [Parameter(Mandatory = $true, Position=0)] 
           [String]$FirstValue 
  
         , [Parameter(Mandatory = $false)] 
