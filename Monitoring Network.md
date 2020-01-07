@@ -13,6 +13,6 @@ Demo version 30 Tage sonst 100 Punkt
 
 link: https://www.de.paessler.com/network-monitoring-software
 
-![](https://hlassets.paessler.com/common/files/screenshots/bandwidth-monitoring.png)
+![](http://hlassets.paessler.com/common/files/screenshots/bandwidth-monitoring.png)
 
-![](https://hlassets.paessler.com/common/files/screenshots/prtg-v17-4/basics/device-tree.png)
+![](http://hlassets.paessler.com/common/files/screenshots/prtg-v17-4/basics/device-tree.png)
